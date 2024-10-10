@@ -1,3 +1,5 @@
 Name:Sai Navya
 Father's Name: Sathi Babu
 Reg No: 12219072
+Specialization: Full Stack
+
